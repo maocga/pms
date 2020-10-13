@@ -73,7 +73,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.9</version>
+      <version>4.13.1</version>
     </dependency>
     <!-- aop AND Transaction -->
     <dependency>
@@ -224,7 +224,7 @@
       <dependency>
           <groupId>junit</groupId>
           <artifactId>junit</artifactId>
-          <version>4.10</version>
+          <version>4.13.1</version>
       </dependency>
 
       <!--谷歌kapatcha验证码工具-->
